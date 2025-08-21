@@ -18,7 +18,7 @@ The project is still in early project and being developed, these are the current
 - [ ] Design other cases for different matrix homeservers behaviors (using an external website to login/register and invite-only homeservers).
 - [ ] Turn all login/register menu designs into code.
 - [ ] Code a way to open captcha in-browser for verifying if you are a robot.
-- [ ] Thinks about the new tasks and get futher to keep going with the development.
+- [ ] Thinks about the new tasks and get further to keep going with the development.
 <!-- 
 ## 💻 Requirements
 
