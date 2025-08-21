@@ -58,7 +58,6 @@ pnpm-debug.log*
 *.sw?
 
 # Neutralinojs binaries and builds
-/bin
 /dist
 
 # Neutralinojs client (minified)
