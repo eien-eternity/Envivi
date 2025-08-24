@@ -2,7 +2,7 @@
   "applicationId": "js.neutralino.zero",
   "version": "1.0.0",
   "defaultMode": "window",
-  "documentRoot": "/Envini/dist",
+  "documentRoot": "/GUI/dist",
   "url": "/",
   "enableServer": true,
   "enableNativeAPI": true,
@@ -21,7 +21,7 @@
   },
   "cli": {
     "binaryName": "src",
-    "resourcesPath": "/Envini/dist",
+    "resourcesPath": "/GUI/dist",
     "extensionsPath": "/extensions/",
     "binaryVersion": "6.2.0",
     "clientVersion": "6.2.0"
